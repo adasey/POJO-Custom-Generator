@@ -66,7 +66,8 @@ public class POJOGeneratorPanel {
                 ${TABLE_NAME}: table name
                 ${SCHEMA_NAME}: schema name
                 ${CLASS_NAME}: class name
-                ${ID_CLASS_NAME}: IdClass name""");
+                ${ID_CLASS_NAME}: IdClass name
+                ${TABLE_DISCRIPTION}: """);
     }
 
     public JPanel getPanel() {
